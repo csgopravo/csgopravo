@@ -1,0 +1,2 @@
+- 👋 Hi, I’m Catte
+- 👀 I’m interested in C++ / C#
